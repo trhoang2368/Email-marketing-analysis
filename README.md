@@ -2,11 +2,11 @@
 
 This repository is relating to an assignment. 
 
-I. What is this assigment final goal? 
+**I. What is this assigment final goal? **
   - Given the database, my goal is to determine when is the best day to send the campaign emails to increase email engagement. 
   
   
-II Answering the questions that are given: 
+**II. Answering the questions that are given: **
 1.	What is the date range of sends? of opens?
   - The emails are sent from March 17th to March 23rd (The span of the send_email is a full week; from Monday to Sunday)
   - The emails are opened on March 17th to March 25th
@@ -57,7 +57,7 @@ In Email Marketing Metrics, according to HubSpot and Impact, there are 9 well kn
 
   - Of course, the more data sets the better. We have more information to be more certain that our conclusions are reliable.
 
- III. Conclusions 
+ **III. Conclusions **
   - Recipients are most likely to read the email on Thursday and Saturday
   - They are less likely to open emails on Wednesday and Sunday
   - On average, it takes around 14.50 hours for recipients to open their emails
